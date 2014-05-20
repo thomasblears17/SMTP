@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="contacttypelist">
+        
+        <item>@string/contacttype1</item>
+        <item>@string/contacttype2</item>
+        <item>@string/contacttype3</item>
+        <item>@string/contacttype4</item>
+        <item>@string/contacttype5</item>
+        
+    </string-array>
+    
+    <string-array name="hearabouttypelist">
+        
+        <item>@string/hearabouttype1</item>
+        <item>@string/hearabouttype2</item>
+        <item>@string/hearabouttype3</item>
+        <item>@string/hearabouttype4</item>
+        <item>@string/hearabouttype5</item>
+        <item>@string/hearabouttype6</item>
+        <item>@string/hearabouttype7</item>
+        
+    </string-array>
+    
+</resources>

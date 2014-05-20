@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMTP App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+        <string name="like_to_receive">I would like to receive:</string>
+    
+    <string name="contacttype1">Latest Market Research</string>
+    <string name="contacttype2">New Account Pack</string>
+    <string name="contacttype3">Morning Focus Emails</string>
+    <string name="contacttype4">Callback</string>
+    <string name="contacttype5">Other</string>
+    
+    
+    <string name="hearabouttype1">Android App</string>
+    <string name="hearabouttype2">iPhone App</string>
+    <string name="hearabouttype3">Online Advert</string>
+    <string name="hearabouttype4">Phone Call</string>
+    <string name="hearabouttype5">Published Media</string>
+	<string name="hearabouttype6">Referral</string>
+    <string name="hearabouttype7">Other</string>
+
+</resources>
